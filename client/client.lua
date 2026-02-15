@@ -1025,6 +1025,8 @@ function StoreDeletedEntity(entity)
 		y = props.y,
 		z = props.z,
 		model = props.model,
+		name = props.name,
+		distance = 0.1
 	})
 end
 
